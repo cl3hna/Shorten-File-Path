@@ -77,6 +77,7 @@ namespace ShortenImagePath
 		private string Renaming(int counter)
 		{
 			StringBuilder sb = new StringBuilder();
+			// Must be adjusted to fill into tbxOutput
 			//sb.Append($"File {counter} from {this.txtFilesFound.Text}");
 			//sb.Append("/n");
 			//sb.Append($"Changed from {oldName} to {newName}");
