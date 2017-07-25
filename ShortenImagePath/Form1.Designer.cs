@@ -1,4 +1,4 @@
-﻿namespace ShortenImagePath
+﻿namespace ShortenFilePath
 {
 	partial class Form1
 	{
